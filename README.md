@@ -11,18 +11,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop View of the website](/images/desktop-qr-view.png)
+![Mobile View of the website](/images/mobile-qr-view.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://qr-challenge-saleem.netlify.app/)
+- Live Site URL: [Live Site](https://qr-challenge-saleem.netlify.app/)
 
 ## My process
 
